@@ -4,3 +4,8 @@ git status
 git add .
 git commit -m "your commit msg here"
 git push origin branchname [get it by type git branch]
+
+Git commands to pull data from github to local
+git fetch origin
+git fetch merge
+git pull origin branchname
