@@ -1,1 +1,6 @@
-ddata from vs
+Git commands to push the code form local to git hub web
+
+git status
+git add .
+git commit -m "your commit msg here"
+git push origin branchname [get it by type git branch]
