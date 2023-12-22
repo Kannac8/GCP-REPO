@@ -9,3 +9,4 @@ Git commands to pull data from github to local
 git fetch origin
 git fetch merge
 git pull origin branchname
+add
